@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding:0;
+
+}
+body{
+    background: #0A0A16 ;
+    color: #ffffff;
+    font: 16px sans-serif;
+
+    
+
+}
+
+.container{
+    margin: auto;
+    width:90%;
+    border: 2px solid red;
+}
+.banner{
+    width: 100%; 
+    height: 70vh;
+    background: url(banner.jfif) center/cover no-repeat ;   
+
+}
+.banner img{
+    width: auto;
+    margin: auto;
+}
+.menu{
+    width: 90%;
+    padding: 20px 0;
+
+}
+a{
+    text-decoration: none;
+    padding: 20px;
+    color: #4B88D6;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.conteudo{
+    text-align: justify;
+}
+p{
+    margin: 10px 0;
+}
+.footer{
+    padding: 20px 0;
+    text-align: center;
+}
